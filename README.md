@@ -49,7 +49,7 @@ Foi utilizada as seguintes ferramentas no processo de desenvolvimento do sistema
 Faça o clone do projeto executando:
 
 ```bash
-
+git clone https://github.com/rodovicks/hubee-frontend-challenge.git
 ```
 
 ### :steam_locomotive: Instalar dependências
