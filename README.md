@@ -11,6 +11,9 @@ O sistema consiste em uma Loja Eletronica, com um carrinho de compras para armaz
   - Efetuar a compra de um produto, sendo redirecionado direto para a tela de confirmação, que consiste na mesma tela do carrinho.
   - Caso ocorra do cliente querer adicionar um produto já existente no carrinho, ele será notificado e redirecionado ao carrinho para conferir se foi um engano ou se quer realmente aumentar a quantidade do item escolhido.
 
+![capa](https://i.postimg.cc/pXGd3Zs8/Home.jpg)
+
+
 - No carrinho   
   - Aumentar a quantidade de itens no carrinho
   - Remover um item do carrinho 
@@ -19,13 +22,15 @@ O sistema consiste em uma Loja Eletronica, com um carrinho de compras para armaz
   - Visualizar valor total do pedido com desconto aplicado
   - Finalizar o pedido, assim concluindo o processo de compra.  
 
+![capa](https://i.postimg.cc/nrMwwpd6/Cart.jpg)
+
 ## :hammer: Ferramentas Utilizadas?
 
 Foi utilizada as seguintes ferramentas no processo de desenvolvimento do sistema
 
 - [Next.js][url-next]
   - [React.js][] 
-  - [TypeScript][url-ts]
+  - [TypeScript][url-typescript]
 - [Styled-components][url-styled]
 - [Material UI][url-mui]
 - [Redux][url-redux]
@@ -81,5 +86,8 @@ Desenvolvido por <a href="https://github.com/rodovicks" target="_blank">Bruno Ro
 [url-react]: https://reactjs.org/
 [url-redux]: https://redux.js.org
 [url-next]: https://nextjs.org/
-
-
+[url-yarn]: https://yarnpkg.com/
+[url-npm]: https://www.npmjs.com/
+[url-node]: https://nodejs.org/en/
+[url-git]: https://github.com/
+[url-typescript]: https://www.typescriptlang.org/
