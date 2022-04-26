@@ -29,7 +29,7 @@ O sistema consiste em uma Loja Eletronica, com um carrinho de compras para armaz
 Foi utilizada as seguintes ferramentas no processo de desenvolvimento do sistema
 
 - [Next.js][url-next]
-  - [React.js][] 
+  - [React.js][url-react] 
   - [TypeScript][url-typescript]
 - [Styled-components][url-styled]
 - [Material UI][url-mui]
